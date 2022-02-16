@@ -1,6 +1,0 @@
-# erp2https://github.com/SIMLISUNANDITA
-The basic concept of coding or programming can be taught to the students of 4-5 years old kids through visual block interfaces, game, text-based coding etc. So, now if parents are wondering why they should motivate their kids to learn various computer programming knowledge from such a young age, then we would suggest they go through the rest of the article for further information. We have tried our best to jot down all the possible insights regarding why coding is important and various other ...
-
-Coding for Kids: A Parent's Guide to Free Coding Resources
-codewizardshq.com
-What Age Should Kids Start Learning to Code? Kids can start learning the basics of coding as early as first grade. With students this young, the best strategy is to start with directional coding activities that use arrows or symbols to illustrate the very basics of coding. In third grade, kids can start learning more specifics of coding with simple algorithms and loops. Elementary school-aged kids are more open to new concepts and beginning the discussion around coding at an early age makes ...
